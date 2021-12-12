@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi, my name is Dennis.
+I am a web developer based in Germany.
+I build websites and web applications with modern technology.
+
 <!--
 **zynth666/zynth666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
